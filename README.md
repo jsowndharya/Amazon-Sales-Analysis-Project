@@ -34,10 +34,10 @@ analysis techniques:
 15. Find the top 5 customers who have spent the most money.
 16. Calculate the total number of orders placed in each state.
 17. Identify the product sub-category with the highest total sales.
-18. List the orders with the highest total sale amount.
-19. Calculate the total sales revenue for each seller.
-20. Find the top 3 states with the highest average sale per order.
-21. Identify the product category with the highest total quantity sold.
+18. Top 5 products whose revenue has decreased in comparison to previous year.
+19. Determine the month with the highest number of orders.
+20. Calculate the profit margin percentage for each sale (Profit divided by Sales).
+21. Calculate the percentage contribution of each sub-category to the total sales amount for the year 2023.
 22. List the orders with the highest quantity of products purchased.
 23. Calculate the average sale amount for each product category.
 24. Find the top-selling seller based on the number of orders processed.
