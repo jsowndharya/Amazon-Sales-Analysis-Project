@@ -10,26 +10,42 @@ information such as sales dates, customer details, product categories, and reven
 leveraging SQL queries and data analysis techniques, we aim to answer various questions and
 uncover valuable insights from the dataset.
 ## Dataset Overview
-The dataset used in this project consists of [insert number] rows of data, representing Amazon
+The dataset used in this project consists of 9994 rows of data, representing Amazon
 sales transactions. Along with the sales data, the dataset includes information about customers,
 products, orders, and returns. Before analysis, the dataset underwent preprocessing to handle
 missing values and ensure data quality.
 ## Analysis Questions Resolved
 During the analysis, the following key questions were addressed using SQL queries and data
 analysis techniques:
-1. Find out the top 5 customers who made the highest profits.
-2. Find out the average quantity ordered per category.
-3. Identify the top 5 products that have generated the highest revenue.
-4. Determine the top 5 products whose revenue has decreased compared to the previous year.
-5. Identify the highest profitable sub-category.
-6. Find out the states with the highest total orders.
-7. Determine the month with the highest number of orders.
-8. Calculate the profit margin percentage for each sale (Profit divided by Sales).
-9. Calculate the percentage contribution of each sub-category.
-10. Identify the top 2 categories that have received maximum returns and their return
-percentage.
+1. Retrieve the total number of customers in the database.
+2. Calculate the total number of sellers registered on Amazon.
+3. List all unique product categories available.
+4. Find the top 5 best-selling products by quantity sold.
+5. Determine the total revenue generated from sales.
+6. List all customers who have made at least one return.
+7. Calculate the average price of products sold.
+8. Identify the top 3 states with the highest total sales.
+9. Find the product category with the highest average sale price.
+10. List all orders with a sale amount greater than $100.
+11. Calculate the total number of returns processed.
+12. Identify the top-selling seller based on total sales amount.
+13. List the products with the highest quantity sold in each category.
+14. Determine the average sale amount per order.
+15. Find the top 5 customers who have spent the most money.
+16. Calculate the total number of orders placed in each state.
+17. Identify the product sub-category with the highest total sales.
+18. List the orders with the highest total sale amount.
+19. Calculate the total sales revenue for each seller.
+20. Find the top 3 states with the highest average sale per order.
+21. Identify the product category with the highest total quantity sold.
+22. List the orders with the highest quantity of products purchased.
+23. Calculate the average sale amount for each product category.
+24. Find the top-selling seller based on the number of orders processed.
+25. Identify the customers who have made returns more than once
+
 ## Entity-Relationship Diagram (ERD)
-![ERD Image](insert_banner_image_link_here)
+
+![Amazon_erd](https://github.com/jsowndharya/Amazon-Sales-Analysis-Project/assets/168530287/2eb78071-3c43-4938-ad9c-ae1d082b4f5c)
 
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
